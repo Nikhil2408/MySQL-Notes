@@ -14,6 +14,10 @@ If I talk about a physical database, a phonebook is an example of it. :sweat_smi
 
 The simplest definition of Database Management System is that it is a software which is used to manage(acesss, update) the database. DBMS provides an interface to perform various operations like database creation, storing data in it, updating data, creating a table in the database and a lot more.
 
+![](images/DBMS.png)
+
+
+
 
 
 
