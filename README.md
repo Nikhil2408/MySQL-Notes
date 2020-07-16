@@ -23,7 +23,7 @@ Examples are:- MySQL, Oracle database, PostgreSQL and many more.
 SQL which stands for structured query language is a language which is used by the database management system to interact with the databases. All relational database management system make use of SQL to interact with the database. All relational DBMS use SQL but that does not mean that all are identical. They is a slight difference in syntax in every DBMS and also the features of database management system are different from each other.
 
 
-<b> Let's get our hands dirty on some commands. </b> 
+<b> Let's get our hands dirty on some commands :computer: </b> 
 
 For any help just type the following command in MySQL prompt.
 ```javascript
