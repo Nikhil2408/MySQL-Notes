@@ -22,6 +22,7 @@ Examples are:- MySQL, Oracle database, PostgreSQL and many more.
 
 SQL which stands for structured query language is a language which is used by the database management system to interact with the databases. All relational database management system make use of SQL to interact with the database. All relational DBMS use SQL but that does not mean that all are identical. They is a slight difference in syntax in every DBMS and also the features of database management system are different from each other.
 
+<b> Important point to note:</b> The SQL keywords are not case-sensitive.
 
 <b> Let's get our hands dirty on some commands :computer: </b> 
 
@@ -35,8 +36,16 @@ To see all the databases created so far, type the following command.
 show databases;
 ```
 
+We can create different databases for different applications. Any number of databases can be created. To create a database use the following command.
+```javascript
+create database <database_name>;
+```
+You can verify the database created using the "show databases;" command which has been already told.
 
-
+To use a particular database or to switch to a particular database and start working on it, use the following command.
+```javascript
+use <database_name>;
+```
 
 
 
