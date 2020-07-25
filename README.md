@@ -27,25 +27,39 @@ SQL which stands for structured query language is a language which is used by th
 <b> Let's get our hands dirty on some commands :computer: </b> 
 
 For any help just type the following command in MySQL prompt.
-```javascript
+```bash
 help;
 ```
 
 To see all the databases created so far, type the following command.
-```javascript
+```bash
 show databases;
 ```
 
 We can create different databases for different applications. Any number of databases can be created. To create a database use the following command.
-```javascript
-create database <database_name>;
+```bash
+CREATE DATABASE <database_name>;
 ```
 You can verify the database created using the "show databases;" command which has been already told.
 
 To use a particular database or to switch to a particular database and start working on it, use the following command.
-```javascript
+```bash
 use <database_name>;
 ```
+To know what database is currently used by us, use
+```bash
+SELECT database();
+```
+ 
+To delete a database, use the following command.
+```bash
+DROP DATABASE <database_name>;
+```
+
+<h2> Tables </h2>
+A collection of related data held in a structured format within a database.
+
+
 
 
 
