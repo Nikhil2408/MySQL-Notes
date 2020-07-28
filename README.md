@@ -62,7 +62,7 @@ A collection of related data held in a structured format within a database.
 <h2> Data Types </h2>
 
 Here is the image that displays all the datatypes used in MySQL.
-![images/Data_Types.png]
+![](images/Data_Types.png)
 
 
 
