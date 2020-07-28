@@ -62,7 +62,23 @@ A collection of related data held in a structured format within a database.
 <h2> Data Types </h2>
 
 Here is the image that displays all the datatypes used in MySQL.
+
 ![](images/Data_Types.png)
+
+* VARCHAR is variable length, while CHAR is fixed length. CHAR is a fixed length string data type, so any remaining space in the field is padded with blanks. CHAR takes up 1 byte per character. VARCHAR is a variable length string data type, so it holds only the characters you assign to it.
+
+To create a table, use the following syntax:
+
+```bash
+CREATE TABLE table_name(column_name1 datatype, column_name2 datatype,.....);
+```
+
+To see the structure of the table created:-
+```bash
+desc <table_name>;
+```
+
+
 
 
 
