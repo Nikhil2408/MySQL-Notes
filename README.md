@@ -59,6 +59,11 @@ DROP DATABASE <database_name>;
 <h2> Tables </h2>
 A collection of related data held in a structured format within a database.
 
+<h2> Data Types </h2>
+
+Here is the image that displays all the datatypes used in MySQL.
+
+
 
 
 
