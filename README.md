@@ -79,7 +79,7 @@ desc <table_name>;
 ```
 
 
-<h1> Will continue later....</h1>
+<h1> Will be continued later....</h1>
 
 
 
